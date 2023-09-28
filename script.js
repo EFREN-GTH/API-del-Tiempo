@@ -67,7 +67,7 @@ function getIcon(code) {
   } else if (code === 1 || code === 2 || code === 3) {
     tag = "wi-day-cloudy.svg"; // Nublado
   } else if (code === 45 || code === 48) {
-    tag = "wi-fog.svg"; // Neblina
+    tag = "wi-day-fog.svg"; // Neblina
   } else if (code === 51 || code === 53 || code === 55 || code === 56 || code === 57) {
     tag = "wi-day-showers.svg"; // Llovizna
   } else if (code === 61 || code === 63 || code === 65 || code === 66 || code === 67) {
